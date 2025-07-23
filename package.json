@@ -1,7 +1,6 @@
 {
   "name": "textutils",
   "version": "0.1.0",
-  "homepage": "https://ProSudipta.github.io/Textutils",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
